@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f0f4f8;
+  color: #333;
+  padding: 0 10px; /* padding horizontal para que no toque bordes */
+}
+
+.App {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+}
+
+.header {
+  padding: 80px 20px;
+  background: linear-gradient(to right, #4facfe, #00f2fe);
+  text-align: center;
+  color: white;
+  border-radius: 0 0 20px 20px;
+  max-width: 600px;
+  margin: 0 auto; /* centra el header */
+}
+
+.skills, .projects, .contact {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 0 15px;
+  box-sizing: border-box;
+}
+
+/* Media Queries para móviles */
+@media (max-width: 600px) {
+  .header {
+    padding: 60px 15px;
+    font-size: 90%;
+  }
+  .skills, .projects, .contact {
+    margin: 20px auto;
+    padding: 0 10px;
+  }
+  ul {
+    padding-left: 20px;
+  }
+}
