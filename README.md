@@ -1,12 +1,55 @@
-# React + Vite
+¡Hola! Soy **Angel Axel**, un desarrollador frontend en crecimiento 🚀. Este es mi portafolio personal donde muestro mis habilidades, proyectos y formas de contacto. Lo construí con **React.js** para practicar y demostrar lo que sé.
+estudiante del 9 cuatrimestre **Universida tecnologica de durango**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📸 Vista previa
 
-Currently, two official plugins are available:
+![Vista previa del portafolio](./assets/screenshot.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tecnologías usadas
 
-## Expanding the ESLint configuration
+- React.js
+- HTML5
+- CSS3
+- Vite (para desarrollo rápido)
+- JavaScript
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+##  Cómo ejecutar el proyecto
+
+1. Clona este repositorio:
+   ```
+   git clone https://github.com/Angelljpg/portfolio.git
+   cd portfolio
+   ```
+
+2. Instala las dependencias:
+   ```
+   npm install
+   ```
+
+3. Inicia el servidor de desarrollo:
+   ```
+   npm run dev
+   ```
+
+4. Abre en tu navegador:
+   ```
+   http://localhost:5173
+   ```
+
+##  Qué estoy practicando
+
+- Estructura de carpetas limpia
+- Componentes reutilizables en React
+- Estilos CSS por componente
+- Diseño responsivo con media queries
+- Despliegue de sitios estáticos
+
+## Notas
+
+Este portafolio es solo el inicio, se irá actualizando conforme mejore mis habilidades tanto en **frontend** como próximamente en **backend**
+por el momento es esto para poder contar con un portafolio ya que git lo tengo algo olvidado.
+
+Soy un joven de 20 años con una visión aún en formación sobre el futuro, pero con muchas ganas de aprender y crecer. Estoy comprometido con el aprendizaje constante de nuevas tecnologías, tanto para estar al día en el presente como para prepararme para lo que viene.
+Actualmente, puedo ofrecer proyectos desarrollados con React.js, React Native y algo de experiencia en Flutter enfocado al frontend.
+    
+- **Correo**: lexalegna559@gmail.com
