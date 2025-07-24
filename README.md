@@ -1,9 +1,7 @@
 ¡Hola! Soy **Angel Axel**, un desarrollador frontend en crecimiento 🚀. Este es mi portafolio personal donde muestro mis habilidades, proyectos y formas de contacto. Lo construí con **React.js** para practicar y demostrar lo que sé.
 estudiante del 9 cuatrimestre **Universida tecnologica de durango**
 
-## 📸 Vista previa
 
-![Vista previa del portafolio](./assets/screenshot.png)
 
 ## 🛠️ Tecnologías usadas
 
