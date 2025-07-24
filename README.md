@@ -13,28 +13,7 @@ estudiante del 9 cuatrimestre **Universida tecnologica de durango**
 - Vite (para desarrollo rápido)
 - JavaScript
 
-##  Cómo ejecutar el proyecto
 
-1. Clona este repositorio:
-   ```
-   git clone https://github.com/Angelljpg/portfolio.git
-   cd portfolio
-   ```
-
-2. Instala las dependencias:
-   ```
-   npm install
-   ```
-
-3. Inicia el servidor de desarrollo:
-   ```
-   npm run dev
-   ```
-
-4. Abre en tu navegador:
-   ```
-   http://localhost:5173
-   ```
 
 ##  Qué estoy practicando
 
